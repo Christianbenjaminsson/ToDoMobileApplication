@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Todo Mobile</string>
+    <string name="contact_text">Kontaktperson:</string>
+    <string name="accept">Acceptera</string>
+    <string name="decline">Acceptera ej</string>
+    <string name="report_time_and_expenses">Rapportera tid och kostnader</string>
+    <string name="log_in">Logga in</string>
+    <string name="declined_work_orders">Ej accepterade arbetsordrar</string>
+    <string name="accepted_work_orders">Accepterade arbetsordrar</string>
+    <string name="time_and_expenses">Tid och kostnader</string>
+    <string name="work_time">Arbetstid (start - slut)</string>
+    <string name="notes">Anteckningar</string>
+    <string name="save">Spara</string>
+    <string name="Expenses">Kostnader</string>
+    <string name="travel_time">Restid</string>
+    <string name="add">+</string>
+    <string name="time_input">YYYYMMDD hh:mm</string>
+    <string name="description">Beskrivning</string>
+    <string name="cost">Kostnad</string>
+    <string name="extra_expense">Lägg till ytterligare kostnad</string>
+</resources>
